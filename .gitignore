@@ -1,0 +1,55 @@
+# Node.js
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE or editor folders
+.idea/
+.vscode/
+
+# npm package lock files (if you want to ignore the lock file)
+# package-lock.json
+# yarn.lock
+
+# Optional eslint config files
+eslint-*
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Typescript
+*.tsbuildinfo
+
+# Coverage directory
+coverage/
+
+# React Native
+.expo/
+
+# Miscellaneous
+*.swp
+*.swo
+
+# MacOS file
+*.dmg
