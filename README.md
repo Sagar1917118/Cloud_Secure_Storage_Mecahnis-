@@ -1,6 +1,7 @@
 # 🔐 Cloud Secure Storage Mechanism (CSSM)
 
 A secure, distributed cloud storage system that combines **AES encryption**, **Shamir’s Secret Sharing**, and **Flask-based API** to safely store and retrieve files in a **modular**, **scalable**, and **highly secure** environment. The backend leverages **Node.js**, **Python**, **Flask**, and **Amazon S3** for distributed storage.
+![image](https://github.com/user-attachments/assets/e29e6731-acd0-4ba7-9625-54cf6e748bd5)
 
 ---
 
